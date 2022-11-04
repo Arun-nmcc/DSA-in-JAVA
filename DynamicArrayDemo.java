@@ -6,7 +6,7 @@ import java.util.*;
 class DynamicArray<T> implements Iterable<T>{ //variables - methods
 	private static final int initialCapacity = 16;
     private T arr[];
-	private int size;
+	private int size;gb
 	private int capacity;
 	
 	@SuppressWarnings("unchecked")
